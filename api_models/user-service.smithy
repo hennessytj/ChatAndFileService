@@ -95,7 +95,6 @@ structure DeleteUserOutput {
 }
 
 @documentation("Returns a list of users.")
-
 @readonly
 @paginated(items: "items")
 operation ListUsers {

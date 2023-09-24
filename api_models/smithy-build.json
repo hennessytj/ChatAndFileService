@@ -1,0 +1,6 @@
+{
+    "version": "1.0",
+    "outputDirectory": "build/output",
+    "imports": ["user-service.smithy", "chat-service.smithy"]
+}
+  

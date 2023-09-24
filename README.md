@@ -8,6 +8,7 @@ The monorepo approach was selected for better code reusability and easier cross-
 
 ## Components
 
+- `api_models/`: Smithy models for API definitions.
 - `backend/`: Java backend services built with Maven.
 - `frontend/`: Frontend application built with React and TypeScript.
 - `infrastructure/`: AWS CDK scripts for managing infrastructure written in TypeScript.
